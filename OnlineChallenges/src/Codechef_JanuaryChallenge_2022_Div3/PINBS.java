@@ -59,7 +59,6 @@ public class PINBS {
 		}
 	}
 
-	
     public static void main (String[] args) throws java.lang.Exception
 	{
 	   FastReader s = new FastReader();
